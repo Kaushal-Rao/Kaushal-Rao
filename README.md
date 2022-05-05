@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kaushal-Rao
-- 👀 I’m interested in Deep Learning, specifically its applications in computer vision
-- 🌱 I’m currently learning about GANs, TensorFlow 2.x, and Django
-- 💞️ I’m looking to collaborate on reearch and projects related to computer vision applications
+- 👀 I’m interested in Deep Learning, specifically its applications in computer vision.
+- 🌱 I’m currently a Product Manager at a solar energy startup.
 - 📫 How to reach me - just message me here or drop an email to kaushal-dot-rao-dot-m on Gmail. 
 
 <!---
